@@ -1,0 +1,4 @@
+requests
+pandas
+mysql-connector-python
+oauth2client
